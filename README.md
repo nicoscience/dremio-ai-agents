@@ -20,3 +20,5 @@ As a part of this hands-on exercise, the AI customer sales assistant will be abl
 - Provide a concise summary of purchase trends and top products
 
 To support these capabilities, you'll define multiple LangChain tools that query Dremio for the necessary sales data—ensuring your AI agent can effortlessly surface real-time insights to drive revenue and strengthen customer relationships.
+
+<img width="663" height="957" alt="image" src="https://github.com/user-attachments/assets/5211d30c-0232-49bb-885e-f28a262e1e70" />
